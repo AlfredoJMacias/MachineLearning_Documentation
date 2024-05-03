@@ -1,6 +1,15 @@
-
-
 # Amazon Rekognition API Documentation
+
+## Badges
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![API Version](https://img.shields.io/badge/version-v1-blue) 
+![GitHub last commit](https://img.shields.io/github/last-commit/AlfredoJMacias/MachineLearning_Documentation)
+![GitHub issues](https://img.shields.io/github/issues/AlfredoJMacias/MachineLearning_Documentation)
+
+<!--![Technology Banner](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg) <!-- Banner image sourced from Pexels -->
+<div style="overflow:hidden; height:300px; position:relative;">
+  <img src="https://images.pexels.com/photos/577500/pexels-photo-577500.jpeg" alt="Technology Banner" style="position:absolute; bottom:0;">
+</div>
 
 ## Overview
 
