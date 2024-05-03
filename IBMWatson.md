@@ -9,7 +9,7 @@ IBM Watson Assistant API Developer Guide
 
 <!--![Technology Banner](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg) <!-- Banner image sourced from Pexels -->
 <div style="overflow:hidden; height:200px; position:relative;">
-  <img src="https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg" alt="Technology Banner" style="position:absolute; bottom:0;">
+  <img src="https://images.pexels.com/photos/577599/pexels-photo-577599.jpeg" alt="Technology Banner" style="position:absolute; bottom:0;">
 </div>
 
 
